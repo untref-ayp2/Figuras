@@ -1,0 +1,4 @@
+module figuras {
+	requires junit;
+	
+}
