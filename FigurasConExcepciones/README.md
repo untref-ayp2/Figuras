@@ -21,13 +21,13 @@ Crear e implementar una jerarquía de excepciones para el ejercicio de las Figur
 ## Implementación
 La implementación propuesta está dividida en 4 paquetes:
 
-**demo: ** paquete con el main y rutinas para leer y parsear el archivo de entrada.
+__demo:__ paquete con el main y rutinas para leer y parsear el archivo de entrada.
 
-**figuras: **paquete con las clases bases para manejar figuras en el plano cartesiano.
+__figuras:__ paquete con las clases bases para manejar figuras en el plano cartesiano.
 
-** pruebas: **paquete con las pruebas unitarias de las clases del módulo figuras.
+__pruebas:__ paquete con las pruebas unitarias de las clases del módulo figuras.
 
-**util: **paquete con métodos y rutinas de uso general. En este caso solo contiene un método genérico que ordena por burbujeo cualquier objeto *Comparable*.
+__util:__ paquete con métodos y rutinas de uso general. En este caso solo contiene un método genérico que ordena por burbujeo cualquier objeto *Comparable*.
 
 ## Documentación
 En la carpeta **doc** se encuentra la documentación completa del código fuente generada para javadoc a partir de lso comentarios del código fuente
